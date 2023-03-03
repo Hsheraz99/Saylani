@@ -1,0 +1,103 @@
+body{
+    background-color:  #454545;
+}
+.euro{
+    display: flex;
+    width: 100%;
+}
+.your{
+    list-style: none;
+    margin: 2%;
+}
+.alpha{
+    list-style: none;
+    margin: 1%;
+    margin-left: 25%;
+    color: white;
+}
+.fan{
+    display: flex;
+    margin-top: 2%;
+    margin-left: 35%;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    }
+.box{
+    width: 500px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 110%;
+    background-color:#2f2f30;
+}
+.just{
+    text-align: center;
+    margin-top: 10%;
+}
+.burger{
+    margin-left: 35px;
+    margin-top: 40px;
+    color: white;
+}
+.container{
+    box-shadow: 2px 4px 5px  grey;
+    position: absolute;
+    top: 70%;
+     width: 90%;
+     height: 25%;
+
+}
+.ruby{
+    box-shadow: 2px 4px 5px  black;
+    justify-content: space-between;
+    text-align: center;
+    margin: auto;
+}
+.testing{
+    margin-top: 13%;
+    margin-left: 5%;
+    color: white;
+}
+.demo{
+    border-bottom: 1px solid white;
+    width: 80%;
+}
+.need{
+    margin-left: 25%;
+}
+.molecule{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 5px;
+    justify-content: center;
+}
+.atom{
+    border: 1px solid black;
+    width: 350px;
+    height: 250px;
+    background-color: #454545;
+    }
+.contact{
+    color:black;
+}
+.self{
+    color: gold;
+}
+.check{
+    color: white;
+}
+.outclase{
+    color: white;
+}
+.ali{
+    border-bottom: 3px solid gold;
+}
+.muhas{
+    background-color:#2f2f30 ;
+}
+.contact{
+    color: white;
+}
